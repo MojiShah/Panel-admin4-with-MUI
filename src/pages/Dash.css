@@ -1,0 +1,44 @@
+.small-card-contents {
+    display: flex;
+    align-items: center;
+}
+
+.colorful{
+    background:linear-gradient(45deg,#159877,#7bc3ab);
+    /* background-color: red; */
+}
+
+.card-icon{
+    margin: 0 10px;
+    color: aliceblue;
+}
+
+.padding-all{
+    padding: 0 10px ;
+}
+
+.price-title{
+    font-weight: 600;
+}
+
+.price-sub-title{
+    font-size: 14px;
+}
+
+.gradient{
+    background: linear-gradient(150deg,rgba(40, 34, 70,1) 0%,rgba(30,47,141,1) 100%);
+}
+
+.gradient-light{
+    background: linear-gradient(150deg,rgba(53, 138, 148,1) 0%,rgba(91,180,96,1) 100%);
+}
+
+.bgcolor{
+    height: 100vh;
+    background: linear-gradient(150deg,#ecf1f1 0%,rgb(233,237,254) 100%);
+}
+
+.show-content{
+    overflow-y: scroll;
+}
+
